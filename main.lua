@@ -11,7 +11,7 @@ function love.load()
 	player.x = love.graphics.getWidth() / 2
 	player.y = love.graphics.getHeight() / 2
  
-	player.speed = 200
+	player.speed = 400
  
 	player.img = love.graphics.newImage('purple.png')
  
